@@ -1,0 +1,58 @@
+nav{
+    
+    background-color: rgb(22, 22, 22);
+    width: 20%;
+    height: 1000px;
+    padding: 0;
+    margin: 0;
+    
+}
+
+#mini-nav{
+    background-color: rgb(22, 22, 22);
+    width: 10%;
+    height: 1000px;
+    padding: 0;
+    margin: 0;
+}
+a{
+    color: white;
+    text-decoration: none;    
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    margin: 0;
+    color: white;
+    vertical-align: middle;
+}
+
+#home-text{font-size: xx-large; vertical-align:super;}
+#home-img{width: 18%;}
+
+#about-text{font-size: xx-large; vertical-align:super;}
+#contact-text{font-size: x-large; vertical-align:super;}
+
+#cross{
+    width: 14%;
+}
+
+#menu-img{
+    position: absolute;
+    
+    width: 9%;
+    bottom: 0;
+    left: 2%;
+}
+#menu-img1{
+    position: absolute;
+    display: none;
+    width: 6%;
+    bottom: 4%;
+    left: 0.5%;
+}
